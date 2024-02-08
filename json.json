@@ -1,0 +1,962 @@
+[
+    {
+        "name": "Canada",
+        "confirmed": 4771226,
+        "latitude": 56.130366,
+        "longitude": -106.346771
+    },
+    {
+        "name": "Belize",
+        "confirmed": 71373,
+        "latitude": 17.1899,
+        "longitude": -88.4976
+    },
+    {
+        "name": "Bahamas",
+        "confirmed": 38084,
+        "latitude": 25.025885,
+        "longitude": -78.035889
+    },
+    {
+        "name": "Costa Rica",
+        "confirmed": 1230653,
+        "latitude": 9.7489,
+        "longitude": -83.7534
+    },
+    {
+        "name": "Cuba",
+        "confirmed": 1115043,
+        "latitude": 21.521757,
+        "longitude": -77.781167
+    },
+    {
+        "name": "Dominican Rep.",
+        "confirmed": 661181,
+        "latitude": 18.7357,
+        "longitude": -70.1627
+    },
+    {
+        "name": "Guatemala",
+        "confirmed": 1250308,
+        "latitude": 15.7835,
+        "longitude": -90.2308
+    },
+    {
+        "name": "Haiti",
+        "confirmed": 34509,
+        "latitude": 18.9712,
+        "longitude": -72.2852
+    },
+    {
+        "name": "Honduras",
+        "confirmed": 472743,
+        "latitude": 15.2,
+        "longitude": -86.2419
+    },
+    {
+        "name": "Jamaica",
+        "confirmed": 156649,
+        "latitude": 18.1096,
+        "longitude": -77.2975
+    },
+    {
+        "name": "Mexico",
+        "confirmed": 7702809,
+        "latitude": 23.634501,
+        "longitude": -102.552784
+    },
+    {
+        "name": "Nicaragua",
+        "confirmed": 16106,
+        "latitude": 12.865416,
+        "longitude": -85.207229
+    },
+    {
+        "name": "Panama",
+        "confirmed": 1042688,
+        "latitude": 8.538,
+        "longitude": -80.7821
+    },
+    {
+        "name": "El Salvador",
+        "confirmed": 201835,
+        "latitude": 13.7942,
+        "longitude": -88.8965
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "confirmed": 191496,
+        "latitude": 10.6918,
+        "longitude": -61.2225
+    },
+    {
+        "name": "United States",
+        "confirmed": 103436829,
+        "latitude": 37.09024,
+        "longitude": -95.712891
+    },
+    {
+        "name": "Bolivia",
+        "confirmed": 1211716,
+        "latitude": -16.2902,
+        "longitude": -63.5887
+    },
+    {
+        "name": "Argentina",
+        "confirmed": 10081076,
+        "latitude": -38.4161,
+        "longitude": -63.6167
+    },
+    {
+        "name": "Brazil",
+        "confirmed": 37519960,
+        "latitude": -14.235004,
+        "longitude": -51.92528
+    },
+    {
+        "name": "Chile",
+        "confirmed": 5334773,
+        "latitude": -35.675147,
+        "longitude": -71.542969
+    },
+    {
+        "name": "Colombia",
+        "confirmed": 6391672,
+        "latitude": 4.570868,
+        "longitude": -74.297333
+    },
+    {
+        "name": "Ecuador",
+        "confirmed": 1070188,
+        "latitude": -1.8312,
+        "longitude": -78.1834
+    },
+    {
+        "name": "Guyana",
+        "confirmed": 73663,
+        "latitude": 4.860416,
+        "longitude": -58.93018
+    },
+    {
+        "name": "Peru",
+        "confirmed": 4536733,
+        "latitude": -9.189967,
+        "longitude": -75.015152
+    },
+    {
+        "name": "Suriname",
+        "confirmed": 82506,
+        "latitude": 3.9193,
+        "longitude": -56.0278
+    },
+    {
+        "name": "Paraguay",
+        "confirmed": 736275,
+        "latitude": -23.4425,
+        "longitude": -58.4438
+    },
+    {
+        "name": "Uruguay",
+        "confirmed": 1041111,
+        "latitude": -32.5228,
+        "longitude": -55.7658
+    },
+    {
+        "name": "Venezuela",
+        "confirmed": 552695,
+        "latitude": 6.4238,
+        "longitude": -66.5897
+    },
+    {
+        "name": "Afghanistan",
+        "confirmed": 231063,
+        "latitude": 33.93911,
+        "longitude": 67.709953
+    },
+    {
+        "name": "United Arab Emirates",
+        "confirmed": 1067030,
+        "latitude": 23.424076,
+        "longitude": 53.847818
+    },
+    {
+        "name": "Armenia",
+        "confirmed": 451426,
+        "latitude": 40.0691,
+        "longitude": 45.0382
+    },
+    {
+        "name": "Azerbaijan",
+        "confirmed": 834371,
+        "latitude": 40.1431,
+        "longitude": 47.5769
+    },
+    {
+        "name": "Bangladesh",
+        "confirmed": 2046758,
+        "latitude": 23.685,
+        "longitude": 90.3563
+    },
+    {
+        "name": "Bhutan",
+        "confirmed": 62697,
+        "latitude": 27.5142,
+        "longitude": 90.4336
+    },
+    {
+        "name": "China",
+        "confirmed": 99326423,
+        "latitude": 35.86166,
+        "longitude": 104.195397
+    },
+    {
+        "name": "Cyprus",
+        "confirmed": 681110,
+        "latitude": 35.1264,
+        "longitude": 33.4299
+    },
+    {
+        "name": "Georgia",
+        "confirmed": 1855289,
+        "latitude": 42.3154,
+        "longitude": 43.3569
+    },
+    {
+        "name": "Indonesia",
+        "confirmed": 6826750,
+        "latitude": -0.7893,
+        "longitude": 113.9213
+    },
+    {
+        "name": "India",
+        "confirmed": 45023751,
+        "latitude": 20.593684,
+        "longitude": 78.96288
+    },
+    {
+        "name": "Iran",
+        "confirmed": 7626022,
+        "latitude": 32.427908,
+        "longitude": 53.688046
+    },
+    {
+        "name": "Israel",
+        "confirmed": 4841558,
+        "latitude": 31.046051,
+        "longitude": 34.851612
+    },
+    {
+        "name": "Iraq",
+        "confirmed": 2465545,
+        "latitude": 33.223191,
+        "longitude": 43.679291
+    },
+    {
+        "name": "Jordan",
+        "confirmed": 1746997,
+        "latitude": 31.24,
+        "longitude": 36.51
+    },
+    {
+        "name": "Japan",
+        "confirmed": 33803572,
+        "latitude": 36.204824,
+        "longitude": 138.252924
+    },
+    {
+        "name": "Kazakhstan",
+        "confirmed": 1503205,
+        "latitude": 48.0196,
+        "longitude": 66.9237
+    },
+    {
+        "name": "Kyrgyzstan",
+        "confirmed": 88953,
+        "latitude": 41.20438,
+        "longitude": 74.766098
+    },
+    {
+        "name": "Cambodia",
+        "confirmed": 139063,
+        "latitude": 11.55,
+        "longitude": 104.9167
+    },
+    {
+        "name": "South orea",
+        "confirmed": 34571873,
+        "latitude": 35.907757,
+        "longitude": 127.766922
+    },
+    {
+        "name": "Kuwait",
+        "confirmed": 666876,
+        "latitude": 29.31166,
+        "longitude": 47.481766
+    },
+    {
+        "name": "Lao PDR",
+        "confirmed": 218913,
+        "latitude": 19.85627,
+        "longitude": 102.495496
+    },
+    {
+        "name": "Lebanon",
+        "confirmed": 1239904,
+        "latitude": 33.8547,
+        "longitude": 35.8623
+    },
+    {
+        "name": "Sri Lanka",
+        "confirmed": 672738,
+        "latitude": 7.873054,
+        "longitude": 80.771797
+    },
+    {
+        "name": "Mongolia",
+        "confirmed": 1011451,
+        "latitude": 46.8625,
+        "longitude": 103.8467
+    },
+    {
+        "name": "Malaysia",
+        "confirmed": 5257009,
+        "latitude": 4.210484,
+        "longitude": 101.975766
+    },
+    {
+        "name": "Nepal",
+        "confirmed": 1003450,
+        "latitude": 28.1667,
+        "longitude": 84.25
+    },
+    {
+        "name": "Oman",
+        "confirmed": 399449,
+        "latitude": 21.512583,
+        "longitude": 55.923255
+    },
+    {
+        "name": "Pakistan",
+        "confirmed": 1580631,
+        "latitude": 30.3753,
+        "longitude": 69.3451
+    },
+    {
+        "name": "Philippines",
+        "confirmed": 4140383,
+        "latitude": 12.879721,
+        "longitude": 121.774017
+    },
+    {
+        "name": "Saudi Arabia",
+        "confirmed": 841469,
+        "latitude": 23.885942,
+        "longitude": 45.079162
+    },
+    {
+        "name": "Qatar",
+        "confirmed": 514524,
+        "latitude": 25.3548,
+        "longitude": 51.1839
+    },
+    {
+        "name": "Syria",
+        "confirmed": 57423,
+        "latitude": 34.802075,
+        "longitude": 38.996815
+    },
+    {
+        "name": "Thailand",
+        "confirmed": 4764382,
+        "latitude": 15.870032,
+        "longitude": 100.992541
+    },
+    {
+        "name": "Tajikistan",
+        "confirmed": 17786,
+        "latitude": 38.861034,
+        "longitude": 71.276093
+    },
+    {
+        "name": "Timor-Leste",
+        "confirmed": 23460,
+        "latitude": -8.874217,
+        "longitude": 125.727539
+    },
+    {
+        "name": "Turkey",
+        "confirmed": 17004677,
+        "latitude": 38.9637,
+        "longitude": 35.2433
+    },
+    {
+        "name": "Taiwan",
+        "confirmed": 9970937,
+        "latitude": 23.7,
+        "longitude": 121
+    },
+    {
+        "name": "Uzbekistan",
+        "confirmed": 175081,
+        "latitude": 41.377491,
+        "longitude": 64.585262
+    },
+    {
+        "name": "Vietnam",
+        "confirmed": 11624000,
+        "latitude": 14.058324,
+        "longitude": 108.277199
+    },
+    {
+        "name": "Yemen",
+        "confirmed": 11945,
+        "latitude": 15.552727,
+        "longitude": 48.516388
+    },
+    {
+        "name": "Angola",
+        "confirmed": 107271,
+        "latitude": -11.2027,
+        "longitude": 17.8739
+    },
+    {
+        "name": "Burundi",
+        "confirmed": 54461,
+        "latitude": -3.3731,
+        "longitude": 29.9189
+    },
+    {
+        "name": "Benin",
+        "confirmed": 28036,
+        "latitude": 9.3077,
+        "longitude": 2.3158
+    },
+    {
+        "name": "Burkina Faso",
+        "confirmed": 22109,
+        "latitude": 12.2383,
+        "longitude": -1.5616
+    },
+    {
+        "name": "Botswana",
+        "confirmed": 330417,
+        "latitude": -22.3285,
+        "longitude": 24.6849
+    },
+    {
+        "name": "Central African Rep.",
+        "confirmed": 15440,
+        "latitude": 6.6111,
+        "longitude": 20.9394
+    },
+    {
+        "name": "Dem. Rep. Congo",
+        "confirmed": 25213,
+        "latitude": -4.0383,
+        "longitude": 21.7587
+    },
+    {
+        "name": "Cameroon",
+        "confirmed": 125137,
+        "latitude": 3.848,
+        "longitude": 11.5021
+    },
+    {
+        "name": "Congo",
+        "confirmed": 25213,
+        "latitude": -0.228,
+        "longitude": 15.8277
+    },
+    {
+        "name": "Algeria",
+        "confirmed": 272010,
+        "latitude": 28.0339,
+        "longitude": 1.6596
+    },
+    {
+        "name": "Djibouti",
+        "confirmed": 15690,
+        "latitude": 11.8251,
+        "longitude": 42.5903
+    },
+    {
+        "name": "Egypt",
+        "confirmed": 516023,
+        "latitude": 26.820553,
+        "longitude": 30.802498
+    },
+    {
+        "name": "Eritrea",
+        "confirmed": 10189,
+        "latitude": 15.1794,
+        "longitude": 39.7823
+    },
+    {
+        "name": "Ethiopia",
+        "confirmed": 501117,
+        "latitude": 9.145,
+        "longitude": 40.4897
+    },
+    {
+        "name": "Gabon",
+        "confirmed": 49051,
+        "latitude": -0.8037,
+        "longitude": 11.6094
+    },
+    {
+        "name": "Ghana",
+        "confirmed": 171834,
+        "latitude": 7.9465,
+        "longitude": -1.0232
+    },
+    {
+        "name": "Guinea",
+        "confirmed": 38572,
+        "latitude": 9.9456,
+        "longitude": -9.6966
+    },
+    {
+        "name": "Gambia",
+        "confirmed": 12626,
+        "latitude": 13.4432,
+        "longitude": -15.3101
+    },
+    {
+        "name": "Guinea-Bissau",
+        "confirmed": 9614,
+        "latitude": 11.8037,
+        "longitude": -15.1804
+    },
+    {
+        "name": "Equatorial Guinea",
+        "confirmed": 17130,
+        "latitude": 1.6508,
+        "longitude": 10.2679
+    },
+    {
+        "name": "Kenya",
+        "confirmed": 344094,
+        "latitude": -0.0236,
+        "longitude": 37.9062
+    },
+    {
+        "name": "Liberia",
+        "confirmed": 7930,
+        "latitude": 6.428055,
+        "longitude": -9.429499
+    },
+    {
+        "name": "Libya",
+        "confirmed": 507269,
+        "latitude": 26.3351,
+        "longitude": 17.228331
+    },
+    {
+        "name": "Lesotho",
+        "confirmed": 36135,
+        "latitude": -29.609988,
+        "longitude": 28.233608
+    },
+    {
+        "name": "Morocco",
+        "confirmed": 1278666,
+        "latitude": 31.7917,
+        "longitude": -7.0926
+    },
+    {
+        "name": "Mali",
+        "confirmed": 33164,
+        "latitude": 17.570692,
+        "longitude": -3.996166
+    },
+    {
+        "name": "Madagascar",
+        "confirmed": 68486,
+        "latitude": -18.766947,
+        "longitude": 46.869107
+    },
+    {
+        "name": "Mauritania",
+        "confirmed": 63808,
+        "latitude": 21.0079,
+        "longitude": -10.9408
+    },
+    {
+        "name": "Mozambique",
+        "confirmed": 233731,
+        "latitude": -18.665695,
+        "longitude": 35.529562
+    },
+    {
+        "name": "Malawi",
+        "confirmed": 89168,
+        "latitude": -13.254308,
+        "longitude": 34.301525
+    },
+    {
+        "name": "Namibia",
+        "confirmed": 172256,
+        "latitude": -22.9576,
+        "longitude": 18.4904
+    },
+    {
+        "name": "Niger",
+        "confirmed": 9515,
+        "latitude": 17.607789,
+        "longitude": 8.081666
+    },
+    {
+        "name": "Nigeria",
+        "confirmed": 267173,
+        "latitude": 9.082,
+        "longitude": 8.6753
+    },
+    {
+        "name": "Rwanda",
+        "confirmed": 133208,
+        "latitude": -1.9403,
+        "longitude": 29.8739
+    },
+    {
+        "name": "W. Sahara",
+        "confirmed": 9,
+        "latitude": 24.2155,
+        "longitude": -12.8858
+    },
+    {
+        "name": "Sudan",
+        "confirmed": 18819,
+        "latitude": 12.8628,
+        "longitude": 30.2176
+    },
+    {
+        "name": "South Sudan",
+        "confirmed": 18819,
+        "latitude": 6.877,
+        "longitude": 31.307
+    },
+    {
+        "name": "Senegal",
+        "confirmed": 89050,
+        "latitude": 14.4974,
+        "longitude": -14.4524
+    },
+    {
+        "name": "Sierra Leone",
+        "confirmed": 7779,
+        "latitude": 8.460555,
+        "longitude": -11.779889
+    },
+    {
+        "name": "Somalia",
+        "confirmed": 27334,
+        "latitude": 5.152149,
+        "longitude": 46.199616
+    },
+    {
+        "name": "Chad",
+        "confirmed": 7698,
+        "latitude": 15.4542,
+        "longitude": 18.7322
+    },
+    {
+        "name": "Eswatini",
+        "confirmed": 75191,
+        "latitude": -26.5225,
+        "longitude": 31.4659
+    },
+    {
+        "name": "Togo",
+        "confirmed": 39527,
+        "latitude": 8.6195,
+        "longitude": 0.8248
+    },
+    {
+        "name": "Tunisia",
+        "confirmed": 1153361,
+        "latitude": 33.886917,
+        "longitude": 9.537499
+    },
+    {
+        "name": "Tanzania",
+        "confirmed": 43223,
+        "latitude": -6.369028,
+        "longitude": 34.888822
+    },
+    {
+        "name": "Uganda",
+        "confirmed": 171888,
+        "latitude": 1.373333,
+        "longitude": 32.290275
+    },
+    {
+        "name": "South Africa",
+        "confirmed": 4072636,
+        "latitude": -30.5595,
+        "longitude": 22.9375
+    },
+    {
+        "name": "Zimbabwe",
+        "confirmed": 266257,
+        "latitude": -19.015438,
+        "longitude": 29.154857
+    },
+    {
+        "name": "Zambia",
+        "confirmed": 349304,
+        "latitude": -13.133897,
+        "longitude": 27.849332
+    },
+    {
+        "name": "Australia",
+        "confirmed": 11752647,
+        "latitude": -25.274398,
+        "longitude": 133.775136
+    },
+    {
+        "name": "Fiji",
+        "confirmed": 69047,
+        "latitude": -17.7134,
+        "longitude": 178.065
+    },
+    {
+        "name": "New Zealand",
+        "confirmed": 2464757,
+        "latitude": -40.9006,
+        "longitude": 174.886
+    },
+    {
+        "name": "Papua New Guinea",
+        "confirmed": 46864,
+        "latitude": -6.314993,
+        "longitude": 143.95555
+    },
+    {
+        "name": "Albania",
+        "confirmed": 334818,
+        "latitude": 41.1533,
+        "longitude": 20.1683
+    },
+    {
+        "name": "Austria",
+        "confirmed": 6081287,
+        "latitude": 47.5162,
+        "longitude": 14.5501
+    },
+    {
+        "name": "Belgium",
+        "confirmed": 4854398,
+        "latitude": 50.8333,
+        "longitude": 4.469936
+    },
+    {
+        "name": "Bulgaria",
+        "confirmed": 1327000,
+        "latitude": 42.7339,
+        "longitude": 25.4858
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "confirmed": 1340355827000,
+        "latitude": 43.9159,
+        "longitude": 17.6791
+    },
+    {
+        "name": "Belarus",
+        "confirmed": 994037,
+        "latitude": 53.7098,
+        "longitude": 27.9534
+    },
+    {
+        "name": "Czech Rep.",
+        "confirmed": 4754870,
+        "latitude": 49.8175,
+        "longitude": 15.473
+    },
+    {
+        "name": "Switzerland",
+        "confirmed": 4449493,
+        "latitude": 46.8182,
+        "longitude": 8.2275
+    },
+    {
+        "name": "Germany",
+        "confirmed": 38437756,
+        "latitude": 51.165691,
+        "longitude": 10.451526
+    },
+    {
+        "name": "Denmark",
+        "confirmed": 3433033,
+        "latitude": 56.2639,
+        "longitude": 9.5018
+    },
+    {
+        "name": "Spain",
+        "confirmed": 13980340,
+        "latitude": 40.463667,
+        "longitude": -3.74922
+    },
+    {
+        "name": "Estonia",
+        "confirmed": 609520,
+        "latitude": 58.5953,
+        "longitude": 25.0136
+    },
+    {
+        "name": "Finland",
+        "confirmed": 1499712,
+        "latitude": 61.92411,
+        "longitude": 25.748151
+    },
+    {
+        "name": "France",
+        "confirmed": 38997490,
+        "latitude": 46.2276,
+        "longitude": 2.2137
+    },
+    {
+        "name": "United Kingdom",
+        "confirmed": 24885790,
+        "latitude": 55.3781,
+        "longitude": -3.436
+    },
+    {
+        "name": "Greece",
+        "confirmed": 5607446,
+        "latitude": 39.0742,
+        "longitude": 21.8243
+    },
+    {
+        "name": "Croatia",
+        "confirmed": 1309728,
+        "latitude": 45.1,
+        "longitude": 15.2
+    },
+    {
+        "name": "Hungary",
+        "confirmed": 2229267,
+        "latitude": 47.1625,
+        "longitude": 19.5033
+    },
+    {
+        "name": "Ireland",
+        "confirmed": 1731853,
+        "latitude": 53.1424,
+        "longitude": -7.6921
+    },
+    {
+        "name": "Iceland",
+        "confirmed": 209870,
+        "latitude": 64.9631,
+        "longitude": -19.0208
+    },
+    {
+        "name": "Italy",
+        "confirmed": 26693706,
+        "latitude": 41.87194,
+        "longitude": 12.56738
+    },
+    {
+        "name": "Lithuania",
+        "confirmed": 1360628,
+        "latitude": 55.1694,
+        "longitude": 23.8813
+    },
+    {
+        "name": "Luxembourg",
+        "confirmed": 390615,
+        "latitude": 49.8153,
+        "longitude": 6.1296
+    },
+    {
+        "name": "Latvia",
+        "confirmed": 977701,
+        "latitude": 56.8796,
+        "longitude": 24.6032
+    },
+    {
+        "name": "Moldova",
+        "confirmed": 633184,
+        "latitude": 47.4116,
+        "longitude": 28.3699
+    },
+    {
+        "name": "Macedonia",
+        "confirmed": 350244,
+        "latitude": 41.6086,
+        "longitude": 21.7453
+    },
+    {
+        "name": "Montenegro",
+        "confirmed": 251280,
+        "latitude": 42.708678,
+        "longitude": 19.37439
+    },
+    {
+        "name": "Netherlands",
+        "confirmed": 8633235,
+        "latitude": 52.1326,
+        "longitude": 5.2913
+    },
+    {
+        "name": "Norway",
+        "confirmed": 1505776,
+        "latitude": 60.472,
+        "longitude": 8.4689
+    },
+    {
+        "name": "Poland",
+        "confirmed": 6649917,
+        "latitude": 51.9194,
+        "longitude": 19.1451
+    },
+    {
+        "name": "Portugal",
+        "confirmed": 5641479,
+        "latitude": 39.3999,
+        "longitude": -8.2245
+    },
+    {
+        "name": "Romania",
+        "confirmed": 3517291,
+        "latitude": 45.9432,
+        "longitude": 24.9668
+    },
+    {
+        "name": "Russia",
+        "confirmed": 23773710,
+        "latitude": 61.52401,
+        "longitude": 105.318756
+    },
+    {
+        "name": "Serbia",
+        "confirmed": 2583470,
+        "latitude": 44.0165,
+        "longitude": 21.0059
+    },
+    {
+        "name": "Slovenia",
+        "confirmed": 1355294,
+        "latitude": 46.1512,
+        "longitude": 14.9955
+    },
+    {
+        "name": "Slovakia",
+        "confirmed": 1876826,
+        "latitude": 48.669,
+        "longitude": 19.699
+    },
+    {
+        "name": "Sweden",
+        "confirmed": 2749366,
+        "latitude": 60.128161,
+        "longitude": 18.643501
+    },
+    {
+        "name": "Ukraine",
+        "confirmed": 5521032,
+        "latitude": 48.379433,
+        "longitude": 31.16558
+    }
+]
